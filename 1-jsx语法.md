@@ -1,5 +1,7 @@
 # 创建虚拟 DOM 的两种方法
 
+## 初始化
+
 - 引入 react 核心库: `react.development.js`
 
 - 引入 react-dom，用于支持 react 操作 DOM: `react-dom.development.js`
